@@ -27,6 +27,7 @@ An Autoencoder is an unsupervised neural network that learns to compress input d
             Convolutional Layer
             Pooling Layer
             Up Sampling Layer. Make sure the input shape and output shape of the model are identical.
+            
 **STEP 5:** Pass test data for validating manually.
 
 **STEP 6:** Pass test data for validating manually.
