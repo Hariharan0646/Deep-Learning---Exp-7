@@ -142,14 +142,19 @@ plt.show()
 
 **Model Summary**
 
-Include your model summary
+<img width="693" height="770" alt="image" src="https://github.com/user-attachments/assets/b6014bce-577e-4f43-a5a4-c36e027e9e26" />
+
 
 **Training loss**
 
+<img width="781" height="584" alt="image" src="https://github.com/user-attachments/assets/8f166845-f1b2-4db8-b14a-0e0d1e13904a" />
+
+
 **Original vs Noisy Vs Reconstructed Image**
 
-Include a few sample images here.
+<img width="890" height="219" alt="image" src="https://github.com/user-attachments/assets/eeb036b9-204c-4329-bbc5-aca2593ca604" />
+
 
 **RESULT**
 
-Include your result here
+Thus we have successfully developed a convolutional autoencoder for image denoising application.
